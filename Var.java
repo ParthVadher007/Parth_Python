@@ -1,7 +1,13 @@
-public class String{  
-public static void main(String args[]){  
-String s1="ParthVadher";  
-String s2="WIZZxPRATS";  
-System.out.println("string length is: "+s1.length());
-System.out.println("string length is: "+s2.length());
-}} 
+public class Jenkins {
+
+    public static void main(String[] args) {
+
+        String str = "Hello, World!";
+
+        int length = str.length();
+
+        System.out.println("Length of the string: " + length);
+
+    }
+
+}
