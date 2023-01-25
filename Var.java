@@ -1,4 +1,4 @@
-public class LengthExample{  
+public class String{  
 public static void main(String args[]){  
 String s1="ParthVadher";  
 String s2="WIZZxPRATS";  
